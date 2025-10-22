@@ -1,0 +1,249 @@
+# Social Media Domains Block List
+# Includes major social media platforms, their CDNs, and subdomains
+
+# Facebook / Meta
+facebook.com
+www.facebook.com
+m.facebook.com
+mobile.facebook.com
+fb.com
+fbcdn.net
+*.fbcdn.net
+static.xx.fbcdn.net
+scontent.xx.fbcdn.net
+fbsbx.com
+facebook.net
+fb.me
+messenger.com
+*.messenger.com
+
+# Instagram
+instagram.com
+www.instagram.com
+*.instagram.com
+cdninstagram.com
+*.cdninstagram.com
+
+# WhatsApp
+whatsapp.com
+www.whatsapp.com
+web.whatsapp.com
+*.whatsapp.net
+
+# YouTube / Google Video
+youtube.com
+www.youtube.com
+m.youtube.com
+music.youtube.com
+studio.youtube.com
+*.youtube.com
+youtu.be
+youtubei.googleapis.com
+youtube-nocookie.com
+ytimg.com
+*.ytimg.com
+i.ytimg.com
+s.ytimg.com
+yt3.ggpht.com
+googlevideo.com
+*.googlevideo.com
+
+# Twitter / X
+twitter.com
+www.twitter.com
+mobile.twitter.com
+*.twitter.com
+x.com
+www.x.com
+*.x.com
+twimg.com
+*.twimg.com
+pbs.twimg.com
+abs.twimg.com
+t.co
+
+# TikTok
+tiktok.com
+www.tiktok.com
+*.tiktok.com
+tiktokcdn.com
+*.tiktokcdn.com
+tiktokv.com
+*.tiktokv.com
+musical.ly
+*.musical.ly
+byteoversea.com
+ibytedtos.com
+*.ibytedtos.com
+
+# LinkedIn
+linkedin.com
+www.linkedin.com
+*.linkedin.com
+licdn.com
+*.licdn.com
+static.licdn.com
+media.licdn.com
+
+# Snapchat
+snapchat.com
+www.snapchat.com
+*.snapchat.com
+sc-cdn.net
+*.sc-cdn.net
+snap-dev.net
+snapkit.com
+
+# Reddit
+reddit.com
+www.reddit.com
+*.reddit.com
+old.reddit.com
+new.reddit.com
+redd.it
+redditmedia.com
+*.redditmedia.com
+redditstatic.com
+*.redditstatic.com
+
+# Pinterest
+pinterest.com
+www.pinterest.com
+*.pinterest.com
+pinimg.com
+*.pinimg.com
+i.pinimg.com
+
+# Tumblr
+tumblr.com
+www.tumblr.com
+*.tumblr.com
+tumblr.co
+*.assets-tumblr.com
+static.tumblr.com
+
+# Discord
+discord.com
+www.discord.com
+*.discord.com
+discordapp.com
+*.discordapp.com
+discord.gg
+cdn.discordapp.com
+media.discordapp.net
+discord.media
+
+# Telegram
+telegram.org
+web.telegram.org
+*.telegram.org
+t.me
+telegram.me
+telegramdownload.com
+
+# Twitch
+twitch.tv
+www.twitch.tv
+*.twitch.tv
+m.twitch.tv
+ttvnw.net
+*.ttvnw.net
+jtvnw.net
+*.jtvnw.net
+
+# Vimeo
+vimeo.com
+www.vimeo.com
+*.vimeo.com
+player.vimeo.com
+vimeocdn.com
+*.vimeocdn.com
+i.vimeocdn.com
+
+# Mastodon (common instances)
+mastodon.social
+mastodon.online
+mstdn.social
+fosstodon.org
+
+# VK (VKontakte)
+vk.com
+www.vk.com
+*.vk.com
+vk.me
+userapi.com
+*.userapi.com
+
+# WeChat
+wechat.com
+www.wechat.com
+web.wechat.com
+wx.qq.com
+
+# Weibo
+weibo.com
+www.weibo.com
+*.weibo.com
+weibo.cn
+
+# Threads (Meta)
+threads.net
+www.threads.net
+*.threads.net
+
+# BlueSky
+bsky.app
+bsky.social
+
+# Flickr
+flickr.com
+www.flickr.com
+*.flickr.com
+staticflickr.com
+*.staticflickr.com
+
+# Quora
+quora.com
+www.quora.com
+*.quora.com
+qph.fs.quoracdn.net
+
+# Medium
+medium.com
+*.medium.com
+cdn-images-1.medium.com
+
+# DeviantArt
+deviantart.com
+www.deviantart.com
+*.deviantart.com
+deviantart.net
+*.deviantart.net
+
+# Periscope
+periscope.tv
+www.periscope.tv
+pscp.tv
+
+# Clubhouse
+clubhouse.com
+www.clubhouse.com
+*.clubhouse.com
+
+# Viber
+viber.com
+www.viber.com
+*.viber.com
+
+# Line
+line.me
+*.line.me
+
+# Kik
+kik.com
+www.kik.com
+
+# MySpace (legacy)
+myspace.com
+www.myspace.com
+*.myspace.com
